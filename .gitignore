@@ -1,0 +1,6 @@
+tmp/*.txt
+tmp/*.jpg
+tmp/*.png
+tmp/*.webp
+tmp/*.mp3
+tmp/*.mp4
